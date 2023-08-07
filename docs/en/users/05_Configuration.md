@@ -19,6 +19,7 @@ Available languages are:
 | English                 | English                | en                                   |
 | English (United States) | English (United States) | en-us                               |
 | Spanish                 | Español                | es                                   |
+| Persian                  | فارسی               | fa                                   |
 | French                  | Français               | fr                                   |
 | Hebrew                  | עברית                  | he                                   |
 | Indonesian              | Bahasa Indonesia       | id                                   |
